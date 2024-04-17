@@ -1,0 +1,10 @@
+[EMAIL]
+EMAIL_SENDER = your-email@example.com
+EMAIL_PASSWORD = your-email-password
+SMTP_SERVER = smtp.example.com
+SMTP_PORT = 587
+
+[API]
+API_KEYS = your_api_key1,your_api_key2
+API_KEY_LIMIT = 100
+
